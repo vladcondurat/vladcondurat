@@ -1,59 +1,48 @@
-👋 Hey there! I’m **Vlad**, a proactive **DevOps Engineer** dedicated to building **resilient**, **automated**, and **cloud-native** platforms. I excel at architecting end-to-end pipelines and systems that boost deployment velocity, enforce security best practices, and deliver consistent uptime.
+👋 Hi, I'm **Vlad** — **System Development Engineer II at Amazon**, building AI agents and automation systems at scale.
 
----
+I architect end-to-end solutions across **full-stack development**, **AI/automation workflows**, and **cloud-native infrastructure**. Passionate about designing resilient systems, optimizing deployment velocity, and delivering production-grade innovation.
 
-## 🛠 Core Technologies
+## 🔧 What I Do
+
+- 🤖 **AI & Automation** — Python services, RAG pipelines, Amazon Bedrock, SQS-driven workflows
+- ☁️ **Cloud & DevOps** — AWS (Lambda, S3, CloudWatch), Kubernetes, Helm, Terraform, GitOps
+- 🔗 **Full-Stack Engineering** — TypeScript, Node.js, Python, .NET, PostgreSQL, Redis
+- 🛡️ **Security & Infrastructure** — Vault, cert-manager, vulnerability scanning, IaC, CI/CD
+
+## 🎯 Core Technologies
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/> 
-    <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
-    <img src="https://img.shields.io/badge/Helm-%23ffffff.svg?style=flat&logo=helm&logoColor=blue" alt="Helm"/> 
-    <img src="https://img.shields.io/badge/Argo_CD-%23772cca.svg?style=flat&logo=argo-cd&logoColor=white" alt="Argo CD"/> 
-    <img src="https://img.shields.io/badge/Istio-%23349ed9.svg?style=flat&logo=istio&logoColor=white" alt="Istio"/>
+    <img src="https://img.shields.io/badge/Python-%233776ab.svg?style=flat&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" alt="Terraform"/>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Ansible-%23ee0000.svg?style=flat&logo=ansible&logoColor=white" alt="Ansible"/> 
-    <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" alt="Terraform"/> 
-    <img src="https://img.shields.io/badge/Prometheus-%23e6522c.svg?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/> 
-    <img src="https://img.shields.io/badge/Grafana-%23f46800.svg?style=flat&logo=grafana&logoColor=white" alt="Grafana"/> 
+    <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/GitLab_CI-%23fc6d26.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-%233776ab.svg?style=flat&logo=python&logoColor=white" alt="Python"/> 
-    <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+    <img src="https://img.shields.io/badge/ArgoCD-%23772cca.svg?style=flat&logo=argo&logoColor=white" alt="ArgoCD"/>
   </p>
 </div>
 
----
+## 💡 Highlights
 
-## 🌐 Full-Stack & Databases
+- 🚀 **Production AI Systems** — Designed Python services on AWS for high-volume AI agent workflows with SQS async processing at scale
+- 🧠 **RAG & Data Pipelines** — Built hybrid search services (keyword + vector), PII anonymization, quality filtering for knowledge bases
+- 🏗️ **Infrastructure as Code** — CloudFormation, Terraform, Kubernetes operators, Helm charts, Vault automation
+- 🔐 **Security-First** — Certificate lifecycle management, secrets management, vulnerability scanning, SBOM compliance
+- 🎓 **DevOps Mentorship** — Trained 20+ students in structured hands-on DevOps curriculum
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/> 
-    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/> 
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> 
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/> 
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/> 
-    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
-    <img src="https://img.shields.io/badge/MySQL-%23000F5E.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  </p>
-</div>
+## 📚 Certifications
 
----
+- **CNCF Certified Kubernetes Administrator** (2025-2027)
+- **Certified Kubernetes Application Developer** (2024-2026)
+- **Kubernetes and Cloud Native Associate** (2025-2026)
 
-## 🤝 What I Bring
+## 🤝 Let's Connect
 
-- 🚀 CI/CD pipeline design & rollout
-- 🔒 Security-first infrastructure practices
-- 🌟 Collaborative team leadership & mentorship
-- 🛠️ Creative automation solutions & scripting
-
----
-
-Let’s connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/vlad-condurat/) • ✉️ vladcondurat23@gmail.com
